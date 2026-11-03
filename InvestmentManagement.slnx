@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="InvestManagement.Domain/InvestManagement.Domain.csproj" />
+  <Project Path="InvestManagement.Tests/InvestManagement.Tests.csproj" />
+  <Project Path="InvestmentManagement.Application/InvestmentManagement.Application.csproj" />
+  <Project Path="InvestmentManagement.Infrastructure/InvestmentManagement.Infrastructure.csproj" />
+  <Project Path="InvestmentManagement/InvestmentManagement.API.csproj" />
+</Solution>
